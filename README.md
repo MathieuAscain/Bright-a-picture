@@ -3,7 +3,7 @@ Java course exercise using 2D arrays
 
 ![Console screen shot](Matrix.jpg)
 
-The goal was to generate a **2D array** to store *picture code* and to be able to :
+The goal was to generate a **2D array** to store *picture coefficient code* and to be able to :
 
 1. value the number of white colour (number 255) selected in the matrix
 2. bright the picture by adding 30 for each matrix coefficient without exceeding 255
