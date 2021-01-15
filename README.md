@@ -13,7 +13,7 @@ The program is composed by :
 * CheckInput class to ensure the input selected by user is only based on integers
 * CheckColour class to ensure the input is in between 0 and 255
 * Calculation class to count the number of white points and to bright the picture
-* Display to show to console the matrix
+* Display class to show to console the matrix
 
 
 
